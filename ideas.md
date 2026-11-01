@@ -1,4 +1,4 @@
-..# Web3 Education Website - Design Brainstorm
+...# Web3 Education Website - Design Brainstorm
 
 ## Konteks Proyek
 Website edukasi Web3 dengan tema futuristik luar angkasa, astronot 3D melayang, neon colors (ungu & biru), glassmorphism, dan animasi smooth modern. Target audience: pemula hingga menengah yang ingin belajar Web3 dari dasar.
